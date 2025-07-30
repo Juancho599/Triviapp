@@ -53,7 +53,7 @@ async def handle_response(update: Update, context: ContextTypes.DEFAULT_TYPE):
         del user_state[user_id]  # borrar el estado
 
 if __name__ == '__main__':
-    app = ApplicationBuilder().token("8043848477:AAG8xjjXR-vLRvzrN__VgU2ovordq308E1s").build()
+    app = ApplicationBuilder().token("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx").build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("trivia", trivia))
