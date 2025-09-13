@@ -1,7 +1,7 @@
 # Triviapp
 Bot de Trivia de Python
 
-Un bot de Telegram que realiza preguntas de trivia sobre Python.
+Es un bot de Telegram que realiza una trivia sobre Python.
 El bot elige preguntas al azar, muestra las opciones como botones y valida la respuesta del usuario.
 
 Funcionalidades:
@@ -14,7 +14,7 @@ Muestra opciones como botones de respuesta.
 
 Informa si la respuesta es correcta o incorrecta y muestra la correcta.
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 
 Python 3.10+
 
@@ -22,7 +22,8 @@ python-telegram-bot (telegram y telegram.ext)
 
 Random para elegir preguntas aleatorias
 
-Instalación y uso
+
+Instalación y uso:
 
 Clonar este repositorio:
 
@@ -47,10 +48,10 @@ Crear un bot en Telegram a través de @BotFather
 
 Reemplazar en el código el token de ejemplo por el tuyo:
 
-app = ApplicationBuilder().token("TU_TOKEN_AQUI").build()
+app = ApplicationBuilder().token( "TU_TOKEN_AQUI" ).build()
 
 
-Ejecutar el bot:
+Ejecutar el bot con:
 
 python bot.py
 
@@ -64,4 +65,11 @@ Abrir Telegram y probarlo con los comandos:
 Bot en funcionamiento: 
 
 ![WhatsApp Image 2025-09-13 at 00 54 08](https://github.com/user-attachments/assets/6488e3e7-9f5c-4fca-af2d-7236c9ade23e)
+
+Mejoras a futuro:
+
+Aumentar la cantidad de preguntas
+
+Seleccionar dificultad (Facil - Avanzado - Experto)
+
 
