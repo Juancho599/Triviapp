@@ -64,7 +64,7 @@ Abrir Telegram y probarlo con los comandos:
 
 Bot en funcionamiento: 
 
-![WhatsApp Image 2025-09-13 at 00 54 08](https://github.com/user-attachments/assets/e94aeeb7-3006-40fe-b2c3-4c4c69184dc8)
+![WhatsApp Image 2025-09-13 at 01 07 24](https://github.com/user-attachments/assets/7eaa89a3-eb65-4c20-83af-20efeadc3a2c)
 
 
 Mejoras a futuro:
